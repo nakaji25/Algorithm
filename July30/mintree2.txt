@@ -1,0 +1,61 @@
+15 30
+ 0  1  1
+ 0  3  2
+ 0 10  8
+ 0 12 18
+ 1  2  4
+ 1  4 19
+ 1  7 25
+ 1 10  9
+ 1 11 10
+ 2  9  5
+ 2 11 18
+ 2 14 21
+ 3  5 26
+ 3  7 23
+ 3  8 15
+ 3 10 25
+ 3 13 23
+ 4  6 23
+ 4  8 22
+ 5 10 17
+ 5 11 23
+ 5 12  7
+ 6 14 18
+ 7 10  9
+ 7 11 21
+ 8  9  5
+ 8 13 30
+ 9 14  3
+11 12 16
+12 13 22
+
+vertex  0, parent = 14, rank = 0
+vertex  1, parent = 14, rank = 1
+vertex  2, parent = 14, rank = 0
+vertex  3, parent = 14, rank = 0
+vertex  4, parent = 14, rank = 0
+vertex  5, parent = 14, rank = 0
+vertex  6, parent = 14, rank = 0
+vertex  7, parent = 14, rank = 0
+vertex  8, parent = 14, rank = 0
+vertex  9, parent = 14, rank = 0
+vertex 10, parent = 14, rank = 0
+vertex 11, parent = 14, rank = 0
+vertex 12, parent = 14, rank = 1
+vertex 13, parent = 14, rank = 0
+vertex 14, parent = 14, rank = 2
+( 0,  1), weight = 1
+( 0,  3), weight = 2
+( 0, 10), weight = 8
+( 1,  2), weight = 4
+( 1,  4), weight = 19
+( 1, 11), weight = 10
+( 2,  9), weight = 5
+( 5, 12), weight = 7
+( 6, 14), weight = 18
+( 7, 10), weight = 9
+( 8,  9), weight = 5
+( 9, 14), weight = 3
+(11, 12), weight = 16
+(12, 13), weight = 22
